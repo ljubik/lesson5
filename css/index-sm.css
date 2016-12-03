@@ -5,11 +5,7 @@ body {
     max-width: 900px;
 
 }
-nav {
-    float: left;
-    width: 20%;
-    background-color: red;
-}
+
 main {
     float: left;
     width: 60%;
